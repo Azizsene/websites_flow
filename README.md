@@ -1,3 +1,3 @@
 mozzarela
 fromage rapé comte
-parmesan
+parmesans
